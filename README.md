@@ -16,4 +16,7 @@ SampleRate: 48000
 WidgetURL: https://botbandera.co.ua/box/v1/XXXXX
 # Your reward name from your Twitch channel:
 RewardName: Озвучити повідомлення
+# Optional field, comma separated Twitch usernames
+# Application will ignore this users and not allow to do TTS
+IgnoreViewers:
 ```
