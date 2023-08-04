@@ -11,7 +11,9 @@ Threads: 10
 # Can be "8000", "24000" or "48000" (bigger value do better quality but takes more resources):
 SampleRate: 48000
 
-[BotBandera]
-# Your widget URL, take it from BotBandera panel:
-WidgetURL: https://botbandera.co.ua/box/v1/XXXXX
+[WebServer]
+# Web server host:
+Host: 0.0.0.0
+# Web server port:
+Port: 8080
 ```
