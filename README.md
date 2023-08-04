@@ -1,7 +1,7 @@
 # botbandera-tts
 BotBandera TTS
 
-## Config example
+## Config
 ```ini
 [TTS]
 # Can be "cpu" or "cuda" (CUDA is recommended):
@@ -23,5 +23,10 @@ Port: 8080
 
 2. Run `tts.exe` and unpack archive to disk `C:\`
 
-3. Go to `C:\tts\` directory, run `tts.exe` wait untill application will be loaded and allow access to network:
+3. Go to `C:\tts\` directory, run `tts.exe` wait until application will be loaded and allow access to network:
 ![firewall.png](firewall.png?raw=true "firewall.png")
+
+4. Just wait until application will be fully loaded:
+![application.png](application.png?raw=true "application.png")
+
+5. TTS ready for use, don't close it, minimize window
