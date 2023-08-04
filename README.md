@@ -17,8 +17,6 @@ BotBandera TTS
 ## Testing/configuration
 For testing/checking purpose, you can navigate in your browser by this link and listen the message: http://127.0.0.1:8080/?user=бандера&msg=все%20ок
 
-For configuration, just edit `config.ini` file which is located in application directory and restart application
-
 Default `config.ini` file:
 ```ini
 [TTS]
@@ -35,3 +33,5 @@ Host: 0.0.0.0
 # Web server port:
 Port: 8080
 ```
+
+For configuration, just edit `config.ini` file which is located in application directory and restart application
