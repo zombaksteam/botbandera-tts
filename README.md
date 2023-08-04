@@ -1,5 +1,6 @@
 # botbandera-tts
-BotBandera TTS
+BotBandera TTS v1.0.4
+https://botbandera.co.ua/
 
 ## Installation
 1. Donwload `tts.7z.001`, `tts.7z.002` and `tts.exe` files from latest release here: https://github.com/zombaksteam/botbandera-tts/releases/latest
