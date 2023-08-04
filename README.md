@@ -30,3 +30,5 @@ Port: 8080
 ![application.png](application.png?raw=true "application.png")
 
 5. TTS ready for use, don't close it, minimize window
+
+For testing/checking purpose, you can navigate in your browser by this link and listen the message: http://127.0.0.1:8080/?user=%D0%B1%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D0%B0&msg=%D0%B2%D1%81%D0%B5%20%D0%BE%D0%BA
