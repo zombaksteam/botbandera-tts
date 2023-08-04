@@ -21,7 +21,7 @@ Port: 8080
 ## Installation
 1. Donwload `tts.7z.001`, `tts.7z.002` and `tts.exe` files from latest release here: https://github.com/zombaksteam/botbandera-tts/releases/latest
 
-2. Run `tts.exe` and unpack archive to disk C:\
+2. Run `tts.exe` and unpack archive to disk `C:\`
 
 3. Go to `C:\tts\` directory, run `tts.exe` wait untill application will be loaded and allow access to network:
 ![firewall.png](firewall.png?raw=true "firewall.png")
