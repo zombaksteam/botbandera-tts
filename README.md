@@ -10,6 +10,8 @@ Device: cuda
 Threads: 10
 # Can be "8000", "24000" or "48000" (bigger value do better quality but takes more resources):
 SampleRate: 48000
+# Can be "false" or "true" (false is recommended)
+SingleThread: false
 
 [BotBandera]
 # Your widget URL, take it from BotBandera panel:
